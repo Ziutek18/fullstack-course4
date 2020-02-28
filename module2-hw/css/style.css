@@ -64,6 +64,7 @@ body > h1 {
 p {
     padding: 10px;
     clear: both;
+    font-size: 15px;
 }
 
 
@@ -82,6 +83,12 @@ p {
   }
   .col-md-12 {
     clear: both;
+  }
+}
+
+@media max-width: 767px {
+  .col-sm-12 {
+    width: 100%;
   }
 }
 
