@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+Lecture-Slides/*
+examples/*
+aasignments/*
+*.pdf
+*.md
+**/images/
+assignments/

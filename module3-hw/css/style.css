@@ -1,0 +1,18 @@
+#header-nav {
+    background-color: #f6b319;
+}
+
+#header-nav a {
+    color: #000;
+}
+
+#nav-list a {
+  color: #951C49;
+  background-color: #f6b319;
+}
+#nav-list a:hover {
+  color: #f6b319;
+  background-color: #951C49;
+}
+
+
